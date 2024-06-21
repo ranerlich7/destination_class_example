@@ -6,7 +6,7 @@ my_destinations = []
 
 def menu():
     load()
-    ic(my_destinations)
+    ic()
     while True:
         ic("1-add")
         ic("2-list")
