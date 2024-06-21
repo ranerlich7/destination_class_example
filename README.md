@@ -1,0 +1,1 @@
+# destination_class_example
